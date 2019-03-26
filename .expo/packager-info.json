@@ -1,0 +1,10 @@
+{
+  "webpackServerPort": null,
+  "expoServerNgrokUrl": "https://q8-936.anonymous.chatapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.q8-936.anonymous.chatapp.exp.direct",
+  "ngrokPid": 19356,
+  "packagerPort": 19001,
+  "packagerPid": 6420,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000
+}
